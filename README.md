@@ -1,6 +1,6 @@
 ### 專長 ###
-⚡R、Python 統計分析與建模
-⚡R Shiny App 建置
+⚡R、Python 統計分析與建模\
+⚡R Shiny App 建置\
 ⚡基礎 SQL 語法撰寫
 ⚡SPSS、Excel 統計分析
 ⚡Power BI 視覺化報表製作
