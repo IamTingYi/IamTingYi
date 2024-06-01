@@ -1,3 +1,6 @@
+### 個人網站 ###
+<https://tingyi0528.wixsite.com/tingyiproject>
+
 ### 專長 ###
 ⚡R、Python 資料處理、統計建模與分析\
 ⚡R Shiny App 建置\
